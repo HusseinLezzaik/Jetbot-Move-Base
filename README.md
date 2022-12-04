@@ -1,5 +1,5 @@
 # Jetbot Move Base
-Movebase configs to get started with Jetbot and the ZED2 camera
+Movebase configs to get started with Jetbot and the ZED2 camera. Read my blog [here](https://husseinlezzaik.substack.com/p/getting-started-with-jetbot) for more.
 
 ## Getting Started
 1. Install ROS Kinetic or Melodic (depending on your ubuntu distro), follow steps [here](http://wiki.ros.org/melodic/Installation/Source).
